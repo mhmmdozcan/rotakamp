@@ -1,0 +1,9 @@
+com\rota\rotakamp\model\Role.class
+com\rota\rotakamp\api\UserController.class
+com\rota\rotakamp\model\User.class
+com\rota\rotakamp\Repository\RoleRepository.class
+com\rota\rotakamp\RotakampApplication.class
+com\rota\rotakamp\Repository\UserRepository.class
+com\rota\rotakamp\service\UserServiceImp.class
+com\rota\rotakamp\api\UserController$RoleToUserForm.class
+com\rota\rotakamp\service\UserService.class
